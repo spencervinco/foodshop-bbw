@@ -15,7 +15,7 @@ Navigate to the `backend` folder in your terminal and run the following commands
 
 ### 3. Set up the Frontend
 
-In a new terminal window, navigate to the `foodshop` folder and run the following commands:\
+In a new terminal window, navigate to the root (`FOODSHOP-BBW`) folder and run the following commands:\
 `npm install`\
 `npm run dev`
 
